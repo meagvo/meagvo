@@ -1,4 +1,4 @@
-### Hi, I'm Meagan Voulo 👋
+### Hi, I'm Meagan Burkhart 👋
 
 
 - 🔭 I’m currently working as a Data Scientist at a healthcare company.
